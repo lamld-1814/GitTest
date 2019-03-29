@@ -1,1 +1,6 @@
 Giới thiệu bản thân:
+Name : Le Dinh Lam
+DOB : 1996
+Hobbies : Football
+Language : Swift
+Target Job: Middle iOS
